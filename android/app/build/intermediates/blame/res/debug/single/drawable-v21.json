@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/BEN_04/WebstormProjects/app8/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/BEN_04/.android/build-cache/2c2a756d61238f3a2fbcc441abfbdc5bbf502af3/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/BEN_04/WebstormProjects/app8/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/BEN_04/.android/build-cache/2c2a756d61238f3a2fbcc441abfbdc5bbf502af3/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/BEN_04/WebstormProjects/app8/android/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/BEN_04/.android/build-cache/de46843368f4bb82057991ffd388e5e60d24d138/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/BEN_04/WebstormProjects/app8/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/BEN_04/.android/build-cache/2c2a756d61238f3a2fbcc441abfbdc5bbf502af3/output/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]

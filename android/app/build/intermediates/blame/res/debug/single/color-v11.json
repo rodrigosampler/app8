@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/BEN_04/WebstormProjects/app8/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/BEN_04/.android/build-cache/2c2a756d61238f3a2fbcc441abfbdc5bbf502af3/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/BEN_04/WebstormProjects/app8/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/BEN_04/.android/build-cache/2c2a756d61238f3a2fbcc441abfbdc5bbf502af3/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

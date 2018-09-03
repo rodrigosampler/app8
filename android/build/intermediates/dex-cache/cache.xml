@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/BEN_04/.android/build-cache/5dc2634faef32808a98396bd8fa0b84930bf54f5/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/BEN_04/WebstormProjects/app8/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_8e396ee14a0dab9f5756c5ef512d0b340b940a97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/BEN_04/.android/build-cache/5dc2634faef32808a98396bd8fa0b84930bf54f5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
+        <dex dex="/home/BEN_04/WebstormProjects/app8/android/app/build/intermediates/pre-dexed/debug/classes_6df5cefcc83aada6dafcab6922ea604878d00542.jar" />
+    </item>
+
+</items>

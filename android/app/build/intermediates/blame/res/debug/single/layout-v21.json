@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/BEN_04/WebstormProjects/app8/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/BEN_04/.android/build-cache/de46843368f4bb82057991ffd388e5e60d24d138/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/BEN_04/WebstormProjects/app8/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/BEN_04/.android/build-cache/de46843368f4bb82057991ffd388e5e60d24d138/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/BEN_04/WebstormProjects/app8/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/BEN_04/.android/build-cache/de46843368f4bb82057991ffd388e5e60d24d138/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/BEN_04/WebstormProjects/app8/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/BEN_04/.android/build-cache/de46843368f4bb82057991ffd388e5e60d24d138/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]
